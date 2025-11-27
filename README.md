@@ -5,59 +5,59 @@
 🌱 Beginner Level:
 
 - Buttons
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/buttons)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/buttons/)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
 - Drop down menu
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/drop%20down%20menu)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/drop%20down%20menu)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20down%20menu)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20down%20menu)
 - Sidebar Menu
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/Sidebar%20Menu)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/Sidebar%20Menu)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20Menu)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20Menu)
 - Search Bar
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/Search%20Bar)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/Search%20Bar)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20Bar)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20Bar)
 - Loaders
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/loader)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/loader)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
 - Text Animation
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/text%20animation)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/text%20animation)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20animation)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20animation)
 - Profile Cards
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/profile%20card)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/profile%20card)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20card)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20card)
 - Product Cards
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/product%20card)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/product%20card)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20card)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20card)
 - Pricing Cards
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/pricing%20cards)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/pricing%20cards)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20cards)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20cards)
 - Footers
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/footer)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/footer)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
 - Flip Card
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/flip%20card)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/flip%20card)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20card)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20card)
 - Modal/Popup CSS
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/modal-popup)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/modal-popup)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
 - Survey Form
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/survey%20form)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/survey%20form)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20form)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20form)
 
 🔥 Intermediate Level:
 
 - Responsive Navbar
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/responsive%20navbar)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/responsive%20navbar)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20navbar)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20navbar)
 - Animated Counter
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/animated%20loader)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/animated%20loader)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20loader)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20loader)
 - Grid Layout
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/grid%20layout)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/grid%20layout)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20layout)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20layout)
 - Image Carousel
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/image%20carousel)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/image%20carousel)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20carousel)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20carousel)
 - Timeline
 - Social Media Icons
 - Animated Buttons
@@ -111,6 +111,6 @@ Are you ready to embark on this exciting adventure of mastering web development 
 
 ## Keep with touch
 
-- YouTube : [@sonacode](https://www.youtube.com/@sonacode/videos)
-- GitHub : [Dinil Thilakarathne](https://github.com/Dinil-Thilakarathne/)
-- Instagram : [@sona_code](https://www.instagram.com/sona_code/)
+- YouTube : [@sonacode](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
+- GitHub : [Dinil Thilakarathne](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
+- Instagram : [@sona_code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
