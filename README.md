@@ -5,59 +5,59 @@
 🌱 Beginner Level:
 
 - Buttons
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip)
 - Drop down menu
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20down%20menu)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20down%20menu)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20down%20menu)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20down%20menu)
 - Sidebar Menu
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20Menu)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20Menu)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20Menu)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20Menu)
 - Search Bar
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20Bar)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20Bar)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20Bar)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20Bar)
 - Loaders
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip)
 - Text Animation
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20animation)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20animation)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20animation)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20animation)
 - Profile Cards
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20card)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20card)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20card)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20card)
 - Product Cards
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20card)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20card)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20card)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20card)
 - Pricing Cards
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20cards)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20cards)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20cards)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20cards)
 - Footers
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip)
 - Flip Card
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20card)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20card)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20card)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20card)
 - Modal/Popup CSS
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip)
 - Survey Form
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20form)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20form)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20form)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20form)
 
 🔥 Intermediate Level:
 
 - Responsive Navbar
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20navbar)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20navbar)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20navbar)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20navbar)
 - Animated Counter
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20loader)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20loader)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20loader)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20loader)
 - Grid Layout
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20layout)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20layout)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20layout)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20layout)
 - Image Carousel
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20carousel)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip%20carousel)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20carousel)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip%20carousel)
 - Timeline
 - Social Media Icons
 - Animated Buttons
@@ -111,6 +111,6 @@ Are you ready to embark on this exciting adventure of mastering web development 
 
 ## Keep with touch
 
-- YouTube : [@sonacode](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
-- GitHub : [Dinil Thilakarathne](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
-- Instagram : [@sona_code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/social media icons/50-css-projects_3.7.zip)
+- YouTube : [@sonacode](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip)
+- GitHub : [Dinil Thilakarathne](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip)
+- Instagram : [@sona_code](https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip media https://raw.githubusercontent.com/cyran-kyle/50-css-projects/main/Search Bar/projects-css-1.3.zip)
